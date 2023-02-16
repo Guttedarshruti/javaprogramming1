@@ -1,0 +1,19 @@
+package classandobject;
+
+public class methodwithreturn
+{
+static int mul()
+{
+int a=2;
+int b=3;
+int c=a*b;
+return c;
+}
+	public static void main(String[] args)
+	{		
+int z=mul();
+System.out.println(z);
+	}
+
+}
+
